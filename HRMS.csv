@@ -1,0 +1,5 @@
+employeeId,firstName,lastName,managerId,fullName,email,department,region,location,inactiveIdentity,jobtitle,costcenter
+101a,Test1,Demo1,NULL,Test1 Demo1,Test1.Demo1@demoexample.com,Executive Management,Americas,Austin,FALSE,,"R03, L07, L08, L09"
+102a,Test2,Demo2,101a,Test2 Demo2,Test2.Demo2@demoexample.com,Regional Operations,Americas,Austin,FALSE,Global Infrastructure Manager,"R03, L07"
+103a,Test3,Demo3,101a,Test3 Demo3,Test3.Demo4@demoexample.com,Regional Operations,Americas,Austin,FALSE,Global Infrastructure Manager,"R03, L07"
+104a,Test4,Demo4,101a,Test4 Demo4,Test4.Demo4@demoexample.com,Regional Operations,Americas,Brazil,FALSE,,"R03, L09"
